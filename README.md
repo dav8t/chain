@@ -1,1 +1,1 @@
-# n00b-chain
+# chain
